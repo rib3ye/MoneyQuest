@@ -1,2 +1,3 @@
-# My-Journey-into-Finance-thus-far-
-A list of readings, videos and courses that have helped me get a grip on "money"
+# MoneyQuest
+
+Please go to the [wiki](https://github.com/nipponese/MoneyQuest/wiki).
